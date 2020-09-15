@@ -1,8 +1,5 @@
 piros
 s rga
-<<<<<<< HEAD
 alma
-=======
 zold
 proba
->>>>>>> zold
